@@ -1,11 +1,11 @@
-[![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Beginning-ASP.Net.svg)](https://github.com/TrainingByPackt/Beginning-ASP.Net/issues)
-[![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/Beginning-ASP.Net.svg)](https://github.com/TrainingByPackt/Beginning-ASP.Net/network)
-[![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Beginning-ASP.Net.svg)](https://github.com/TrainingByPackt/Beginning-ASP.Net/stargazers)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/Beginning-ASP.Net/pulls)
+[![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Beginning-ASP.Net-eLearning.svg)](https://github.com/TrainingByPackt/Beginning-ASP.Net-eLearning/issues)
+[![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/Beginning-ASP.Net-eLearning.svg)](https://github.com/TrainingByPackt/Beginning-ASP.Net-eLearning/network)
+[![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Beginning-ASP.Net-eLearning.svg)](https://github.com/TrainingByPackt/Beginning-ASP.Net-eLearning/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/Beginning-ASP.Net-eLearning/pulls)
 
 
 
-# Beginning ASP.NET
+# Beginning ASP.NET [eLearning]
 Building robust web applications is the need of the hour in the web world. ASP.NET Core is known for building and deploying robust crossplatform applications. ASP.NET Core MVC (that makes use of the Model-View-Controller architecture) has in it the ingredients required for efficient development of applications. In today's age, it's important for a developer to possess the ability to separate the programming and business logic. There are few courses available on ASP.NET Core 2 that imbibes this ability to a developer. This course offers a tried & tested way to build cross-platform applications. It presents the fundamentals and philosophies of ASP.NET Core. Starting with an overview of the MVC pattern, you'll quickly dive into the aspects that you need to know to get started with ASP. NET. You'll learn about the core architecture of model, view, and control. Finally, build your own shopping cart application, and gain all the skills to develop real-world applications with ASP. NET Core 2.
 
 
